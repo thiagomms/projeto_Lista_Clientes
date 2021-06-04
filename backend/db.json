@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Fernando",
+      "id": 1,
+      "cargo": "Estagiário de Desenvolvimento"
+    },
+    {
+      "name": "Thiago Mateus ",
+      "cargo": "Estagiário de Desenvolvimento",
+      "id": 8
+    }
+  ]
+}
