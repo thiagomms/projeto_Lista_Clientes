@@ -1,4 +1,4 @@
-# CRUD Angular 9
+# Angular 9
 O CRUD-Angular-9 é um projeto desenvolvido para estudo do framework Angular 9, com um back-end estruturado em JSON-Server apenas para demonstrar o funcionamento básico da aplicação desenvolvida.
 
 
